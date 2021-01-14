@@ -25,6 +25,21 @@ var settings = {
 
 };
 
+// var nameInput = document.getElementById('exampleInputEmail1');
+//
+// document.querySelector('form.pure-form').addEventListener('submit', function (e) {
+//
+// 	//prevent the normal submission of the form
+// 	e.preventDefault();
+//
+// 	console.log(nameInput.value);
+// });
+//
+// function formSubmission(data) {
+// 	console.log("Form Submitted")
+// 	console.log(data)
+// }
+
 (function($) {
 
 	skel.breakpoints({
