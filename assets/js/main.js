@@ -40,6 +40,7 @@ var settings = {
 // 	console.log(data)
 // }
 
+
 (function($) {
 
 	skel.breakpoints({
